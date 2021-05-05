@@ -1,5 +1,5 @@
 # JunwooPark
-## _Front-End Engineer_
+## _Front-End Developer_
 
 - ✨HTML ✨
 - ✨CSS ✨
