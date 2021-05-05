@@ -1,5 +1,9 @@
-### Hi there 👋
+# JunwooPark
+## _Front-End Engineer_
 
+- ✨HTML ✨
+- ✨CSS ✨
+- ✨JavaScript ✨
 <!--
 **jw-97/jw-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
